@@ -16,7 +16,7 @@ Plus, I made all the [course slides available for download](theory-lectures.pdf)
 
 ### Q2: I'm stuck in one of the projects. Where do I get help?
 
-**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
+**A:** Have you actually tried todsad fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
 
 ### Q3: What VSCode theme are you using?
 
